@@ -1,0 +1,111 @@
+h1{
+    color:rgb(76, 22, 47);
+    text-align: center;
+}
+button{
+    color:brown;
+    background-color: bisque;
+}
+body{
+background-color:#7ea2aa;
+}
+.Greetings{
+    color:rgb(41, 90, 118)
+}
+#Box{
+    background-color:aquamarine;
+}
+p{
+    text-align: center;
+}
+#text{
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+#Capital{
+   text-transform: uppercase;
+   text-align: center;
+   font-family:'Times New Roman', Times, serif;
+}
+div{
+    height:600;
+    background-color:rgb(237, 100, 143);
+    width:80%;
+   /* border-width: 2px;
+    border-style:solid;
+    border-color: brown;*/
+    margin:25px 25px 25px 25px;
+   padding :25px;
+    
+    text-align: center;
+    border: 2px solid rgb(128, 165, 42);
+   
+    display: inline-block;
+
+}
+#b1{
+    height:100px;
+    background-color:cornflowerblue;
+    width:100px;
+   /* border-width: 2px;
+    border-style:solid;
+    border-color: brown;*/
+     display: inline-block;
+    text-align: center;
+   
+   margin:25px;
+   padding :25px;
+    position:relative;
+    top:20px;
+    left: 60px;
+}
+#b2{
+    height:100px;
+    background-color:rgb(155, 237, 100);
+    width:100px;
+   /* border-width: 2px;
+    border-style:solid;
+    border-color: brown;*/
+    margin:25px;
+   padding :25px;
+    
+    text-align: center;
+    border: 2px solid rgb(128, 165, 42);
+   
+    display: inline-block;
+    position:relative;
+    z-index: 100px;
+
+}
+#b3{
+    height:100px;
+    background-color:rgba(237, 100, 216,0.5);
+    width:100px;
+   /* border-width: 2px;
+    border-style:solid;
+    border-color: brown;*/
+    margin:25px;
+   padding :25px; 
+    text-align: center;
+     display: inline-block;
+}
+#b4{
+    height:100px;
+    background-color:rgba(237, 100, 216,0.5);
+    width:100px;
+   /* border-width: 2px;
+    border-style:solid;
+    border-color: brown;*/
+    margin:25px;
+   padding :25px; 
+    text-align: center;
+     display: inline-block;
+      background-image:url(room.jpg);
+    background-size: cover;
+}
+body{
+    background-image:url("pic.jpg");
+    background-size: cover;
+   
+}
+  
